@@ -10,6 +10,7 @@ final Map<String, dynamic> aboutMe = {
   'frameworks' : ['Flutter'],
   'tools' : ['Git', 'VS Code', 'IntelliJ', 'Android Studio', 'NetBeans', 'Postman'],
   'libraries' : ['firebase', 'ktlint', 'hilt'],
+  'database' : ['Mongo DB'],
   'currentOccupation': ['pre-final year student', 'open for internships'], 
 };
 ```
