@@ -5,7 +5,6 @@
 ### <img src="https://media.tenor.com/x6_xEJ29iV8AAAAi/freakmeaning-fre4k.gif" width="30"> A little more about me...  
 ```dart
 final Map<String, dynamic> aboutMe = { 
-  'pronouns': 'he' | 'him', 
   'code': ['Java', 'Kotlin', 'Dart', 'Python', 'C'], 
   'frameworks' : ['Flutter'],
   'tools' : ['Git', 'VS Code', 'IntelliJ', 'Android Studio', 'NetBeans', 'Postman'],
